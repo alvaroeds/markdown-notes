@@ -216,3 +216,17 @@ Puede alinear el texto de las columnas a la izquierda, a la derecha o al centro 
 
 - https://boostnote.io/
 - https://www.inkdrop.app/
+
+
+...................
+
+Listas de tareas
+- [x] Tarea  realizada
+- [x] Otra tarea realizada sin ordenar
+- [ ] Tarea sin realizar
+Producirá
+
+[x] Tarea realizada
+[x] Otra tarea realizada sin ordenar
+[ ] Tarea sin realizar
+
